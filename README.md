@@ -1,4 +1,4 @@
-# MS-Teams-Website
+MS-Teams-Website
 ----------------------------------------------------
 ----------------------------------------------------
 A **Web-App** which provides you facilities like Video-Calling and group chatting
@@ -18,6 +18,12 @@ A **Web-App** which provides you facilities like Video-Calling and group chattin
 
 ## Click on **START VIDEO** or **START CHAT** to start video call conversation or group-chat respectively.
 ![image](https://user-images.githubusercontent.com/69220037/124892914-e8c3e300-dff7-11eb-9b65-1ee8a4ab67db.png)
+
+### If you want to know how to build these apps which provide video calling and group chatting services do visit below given git-hub repositories 
+<ul>
+  <li> https://github.com/nikitasingh2001/MSTeamsChatApp </li>
+  <li> https://github.com/nikitasingh2001/MS-TEAMS-VIDEOCHAT-APP </li>
+</ul>
 
 
 
