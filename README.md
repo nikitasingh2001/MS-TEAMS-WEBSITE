@@ -25,6 +25,11 @@ A **Web-App** which provides you facilities like Video-Calling and group chattin
   <li> https://github.com/nikitasingh2001/MS-TEAMS-VIDEOCHAT-APP </li>
 </ul>
 
+## Preview for chat App
+![image](https://user-images.githubusercontent.com/69220037/124859195-10ea1c80-dfcd-11eb-90aa-936461334dff.png)
+
+## Preview for Video Call App
+![image](https://user-images.githubusercontent.com/69220037/124870939-0fc2ea80-dfe1-11eb-99d0-c224c5fb049e.png)
 
 
 
