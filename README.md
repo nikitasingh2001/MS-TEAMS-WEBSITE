@@ -1,6 +1,6 @@
 MS-Teams-Website
-----------------------------------------------------
-----------------------------------------------------
+==============
+
 A **Web-App** which provides you facilities like Video-Calling and group chatting
 
 ## Technology Used for frontend development:
